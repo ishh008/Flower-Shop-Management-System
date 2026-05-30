@@ -47,6 +47,22 @@ I built this application to manage orders, customers, and inventory in a simple 
 * Convert to web-based application
 
 👩‍💻 Author
-Developed as part of a Diploma project using C# and SQL Server.
 
 Developed as part of a Diploma project using C# and SQL Server.
+
+## Screenshots
+
+### Login Screen
+![Login Screen](Login.png)
+
+### Dashboard
+![Dashboard](Dashboard.png)
+
+### Product Management
+![Flowers](Flowers.png)
+
+### Customer Management
+![Customers](Customer.png)
+
+### Order Management
+![Orders](Order.png)
